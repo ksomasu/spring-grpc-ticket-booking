@@ -17,7 +17,6 @@ The `grpc-client` module implements the client-side logic generated from the `gr
 
 ## Use Case:
 
-Give me detailed post man collection to test all this use cases.
 system that allows users to create, view, and delete tickets
 
 - Each user will have a unique email address.
