@@ -1,0 +1,5 @@
+grpc:
+  client:
+    grpc-ticket-booking-client:
+      address: static://localhost:8085
+      negotiation-type: plaintext
